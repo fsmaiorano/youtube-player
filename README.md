@@ -1,2 +1,8 @@
-# youtube-player
-A simple youtube player build with ReactJS.
+# Youtube Player
+
+A simple youtube player built with ReactJS.
+
+```
+> npm install
+> npm start
+```
